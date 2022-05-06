@@ -1,0 +1,16 @@
+= httpenc
+
+image::https://pkg.go.dev/badge/github.com/kechako/httpenc.svg[link="https://pkg.go.dev/github.com/kechako/httpenc",alt="Go Reference"]
+
+Package httpenc provides a handler to encode a response content.
+
+== Install
+
+[source, console]
+----
+go get github.com/kechako/httpenc
+----
+
+== License
+
+MIT - See link:LICENSE[LICENSE] file
